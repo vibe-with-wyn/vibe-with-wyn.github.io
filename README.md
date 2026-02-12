@@ -43,4 +43,4 @@ This site is part of the academic requirements for the Wadhwani program and is *
 
 ## 🔗 Live Demo (GitHub Pages)
 
-The landing page is published via GitHub Pages: [https://vibe-with-wyn.github.io/](https://vibe-with-wyn.github.io/agri-link/)
+The landing page is published via GitHub Pages: https://vibe-with-wyn.github.io/agri-link/
